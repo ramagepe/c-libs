@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stdlib.h": "c",
+        "hash_table.h": "c",
+        "math.h": "c"
+    }
+}

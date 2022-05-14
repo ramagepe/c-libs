@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/ramage/dev/Clang/hash_table'
+gcc -Wall ./src/*.c -g -o main -lm
+make: Leaving directory '/home/ramage/dev/Clang/hash_table'
+ 
